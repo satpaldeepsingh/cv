@@ -1,5 +1,5 @@
 ---
-title: Senior Detective
+title: Full Stack Developer
 date: 1990 - Present
 url: http://ropibbe.nf/savadru
 location: Los Angeles, California
